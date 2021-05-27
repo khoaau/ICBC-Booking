@@ -1,4 +1,5 @@
 ﻿# ICBC-Booking
+ ## These code were created to help me able to book that earliest test appointment in ICBC. Due to covid-19, ICBC appointment is full and appointment is only available few months later.
 Need to install python 3, selenium and BeautifulSoup to run the code.
 
 This repository is created to help for ICBC knowledge test and road test appointment booking.
