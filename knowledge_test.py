@@ -86,5 +86,5 @@ if __name__ == "__main__":
     best_location = choose_earliest_date(object_location)
     print(best_location)
 
-    close the driver
+    # close the driver
     driver.close()
